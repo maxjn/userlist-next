@@ -12,9 +12,11 @@ See the live project [here](https://maxjn-userlist-next.vercel.app/) .
 - **Nextjs**
 
 ## Features
-
-- Mobile First
-- Responsive
+- Different Routes & Layout
+- Global style & style modules
+- Custom 404 page & redirecting
+- Custom metadata for each page
+- Fetching data from an API
 
 ## Installation
 
